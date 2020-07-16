@@ -1,5 +1,4 @@
 
-### Hi there 👋
 😁 😁 😁 😁
 
 Hi! I'm an engineer @BNI46 working with  💻 love <3
