@@ -9,5 +9,5 @@ Hi! I'm an engineer @BNI46 working with  💻 love <3
 
 Work with .Net and Golang !!!
 
-Love console btw :v
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sansob)](https://github.com/anuraghazra/github-readme-stats)
 
