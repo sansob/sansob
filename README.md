@@ -8,6 +8,3 @@ Hi! I'm an engineer @BNI46 working with  💻 love <3
 > foundation
 
 Work with .Net and Golang !!!
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sansob)](https://github.com/anuraghazra/github-readme-stats)
-
