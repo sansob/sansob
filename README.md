@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Golang :)**
 
-- 📫 How to reach me **hasan.shobri@outlook.com**
+- 📫 How to reach me **hi@sansob.me**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sansob/](https://www.linkedin.com/in/sansob/)
 
