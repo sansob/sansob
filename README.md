@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BP Tapera (Sitara Portal as Backend Lead) and app analyst](https://sitara.tapera.go.id/)
 
-- 💬 Ask me about **Golang :)**
+- 💬 Ask me about **Dot Net :D , Golang :)**
 
 - 📫 How to reach me **hi@sansob.me**
 
