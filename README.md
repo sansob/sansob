@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan Shobri or Sansob :)</h1>
 <h3 align="center">A 'small little chicken' app analyst & backend developer from Indonesia</h3>
 
-- 🔭 I’m currently working on BNI :)
 
 - 💬 Ask me about **Dot Net :D , Golang :)**
 
